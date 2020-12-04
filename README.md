@@ -1,4 +1,4 @@
-# twitter-feed-NLP
+# Twitter Feed Text Classification using NLP
 
 # Capstone 2 Proposal #2 
 
