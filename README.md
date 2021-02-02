@@ -1,7 +1,5 @@
 # Twitter Feed Text Classification using NLP
 
-# Capstone 2 Proposal #2 
-
 ## Analyzing Twitter Feed using NLP
 
 ### Overview: 
